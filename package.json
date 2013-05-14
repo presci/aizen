@@ -2,8 +2,8 @@
   "name": "aizen",
   "fullName": "aizen",
   "id": "jid1-KGA2DC89NTAO3g",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Flash Game Addon",
+  "author": "presci@github.com",
   "license": "MPL 2.0",
   "version": "0.1"
 }
